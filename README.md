@@ -26,7 +26,7 @@ The project was created to help hospital management improve operational efficien
 
 # Live Dashboard / Project Link
 
-🔗 [View Project](PASTE_YOUR_GITHUB_LINK_HERE)
+🔗 [View Project](<iframe src="https://1drv.ms/x/c/3c245db10adea573/IQRIAg3tcqsxT76bBaVlX86DAQGhDb9F4ZpH2rfL2z1axAU" width="402" height="346" frameborder="0" scrolling="no"></iframe>)
 
 Example:
 https://github.com/yourusername/hospital-emergency-room-dashboard

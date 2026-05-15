@@ -28,17 +28,13 @@ The project was created to help hospital management improve operational efficien
 
 🔗 [View Project](<iframe src="https://1drv.ms/x/c/3c245db10adea573/IQRIAg3tcqsxT76bBaVlX86DAQGhDb9F4ZpH2rfL2z1axAU" width="402" height="346" frameborder="0" scrolling="no"></iframe>)
 
-Example:
-https://github.com/yourusername/hospital-emergency-room-dashboard
+
 
 ---
 
 # Dataset Link
 
-🔗 [Download Dataset](PASTE_YOUR_DATASET_LINK_HERE)
-
-Example:
-https://github.com/yourusername/hospital-emergency-room-dashboard/tree/main/Dataset
+🔗 [Download Dataset](https://github.com/dineshmete/Hospital-Emergency-Room-Dashboard-Excel/blob/main/Hospital%20Emergency%20Room%20Data.csv)
 
 ---
 
@@ -163,19 +159,3 @@ Generated insights related to:
 - Satisfaction scores highlighted service improvement opportunities
 
 ---
-
-# Folder Structure
-
-```text
-Hospital-Emergency-Room-Dashboard/
-│
-├── Dataset/
-│   └── hospital_emergency_data.xlsx
-│
-├── Dashboard/
-│   └── Hospital_ER_Dashboard.xlsx
-│
-├── Images/
-│   └── dashboard_preview.png
-│
-└── README.md
